@@ -7,12 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1wYqAWwcZ2ujNxFbXzjeUS1_5kQY7Un1U
 """
 
-
+pip install numpy
 import numpy as np
+pip install pandas
 import pandas as pd
-import pandas as pd 
-import numpy as np
+pip install matplotlib
 import matplotlib.pyplot as plt
+pip install sklearn
 import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
